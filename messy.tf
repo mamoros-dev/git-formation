@@ -1,1 +1,2 @@
-resource   "aws_instance"    "bad_format" {}
+resource "aws_instance" "bad_format" {}
+
