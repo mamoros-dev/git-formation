@@ -16,3 +16,6 @@ aws-credentials
 # General
 .DS_Store
 *.log
+
+# lint & commit
+node_modules/
