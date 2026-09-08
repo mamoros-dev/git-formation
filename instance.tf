@@ -1,3 +1,3 @@
 variable "instance_count" {
-  default = 999
+  default = 5
 }
